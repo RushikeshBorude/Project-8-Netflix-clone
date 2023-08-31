@@ -7,8 +7,8 @@ https://rushikeshborude.github.io/Project-8-Netflix-clone/
 
 
 # this is a images of projects 
-![Screenshot (13878)](https://github.com/RushikeshBorude/Project-8-Netflix-clone/assets/86228914/b62c03d2-5ac4-4310-b6e2-507f0139624b)
 
+![Screenshot (13896)](https://github.com/RushikeshBorude/Project-8-Netflix-clone/assets/86228914/d6ed9c87-1a00-4760-a254-bda6b538b681)
 
 
 
