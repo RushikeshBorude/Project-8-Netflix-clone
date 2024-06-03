@@ -56,6 +56,10 @@ y – html, CSS, Java Script, react, Bootstrap, Git hub, JSAPI’s, Figma, adobe
 
 
 
+![Screenshot (13884)](https://github.com/RushikeshBorude/Project-8-Netflix-clone/assets/86228914/928429ef-fa9d-4334-9e7b-14d34d7b5959)
+
+
+
 # these projects own by Rushikesh Borude | Professionally SOFTWARE ENGINEER & FULL STACK WEB DEVELOPER
 
 little bit about me - 
@@ -80,7 +84,3 @@ Thanks for reading. See you again if possible, with lots of happiness.
 
 
 
-
-
-
-![Screenshot (13884)](https://github.com/RushikeshBorude/Project-8-Netflix-clone/assets/86228914/928429ef-fa9d-4334-9e7b-14d34d7b5959)
